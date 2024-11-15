@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leonardo-dalmazzo-245027150?original_referer=https%3A%2F%2Fgithub.com%2FLeo-Dev-Full-Stack%2FLeo-Dev-Full-Stack%3Ftab%3Dreadme-ov-file" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-dalmazzo-245027150?original_referer=https%3A%2F%2Fgithub.com%2FLeo-DevFullStack%2FLeo-DevFullStack%3Ftab%3Dreadme-ov-file" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/leo_dalmazzo99/?igsh=MXJhYTZ5NHcxcXZsYw%3D%3D" target="_blank">
@@ -62,13 +62,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Leo-Dev-Full-Stack&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Leo-DevFullStack&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Dev-Full-Stack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-DevFullStack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
