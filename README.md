@@ -24,7 +24,7 @@
 
 ###
 
-[**Check my portfolio!**]([https://leo-devfullstack.github.io/portfolio/](https://github.com/Leo-DevFullStack))
+[**Check my portfolio!**][([https://leo-devfullstack.github.io/portfolio/](https://github.com/Leo-DevFullStack))](https://leo-devfullstack.github.io/meuSite/)
 
 ###
 
