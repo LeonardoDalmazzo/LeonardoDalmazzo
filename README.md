@@ -24,9 +24,10 @@
 
 ###
 
-[**Check my newweb site!**](https://leo-devfullstack.github.io/meuSite/)
-[**Check my github!**](https://github.com/Leo-DevFullStack)
-[**Check my first portfolio!**](https://github.com/Leo-DevFullStack/firstPortfolio)
+[**Check my new website!**](https://leo-devfullstack.github.io/meuSite/)<br>
+[**Check my github!**](https://github.com/Leo-DevFullStack)<br>
+[**Check my first portfolio!**](https://github.com/Leo-DevFullStack/firstPortfolio)<br>
+[**Check my first portfolio versão web!**](https://leo-devfullstack.github.io/firstPortfolio/)
 
 ###
 
