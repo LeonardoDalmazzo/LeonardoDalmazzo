@@ -25,9 +25,8 @@
 ###
 
 [**Check my new website!**](https://leo-devfullstack.github.io/meuSite/)<br>
-[**Check my github!**](https://github.com/Leo-DevFullStack)<br>
-[**Check my first portfolio!**](https://github.com/Leo-DevFullStack/firstPortfolio)<br>
-[**Check my first portfolio versão web!**](https://leo-devfullstack.github.io/firstPortfolio/)
+[**Check my dreamoto!**](https://leo-devfullstack.github.io/dreamoto/)<br>
+[**Check my first portfolio!**](https://leo-devfullstack.github.io/firstPortfolio/)
 
 ###
 
