@@ -24,10 +24,9 @@
 
 ###
 
-[**Check my new website!**](https://leo-devfullstack.github.io/meuSite/)<br>
-[**Check dreamoto website!**](https://leo-devfullstack.github.io/dreamoto/)<br>
-[**Check fiançailles website!**](https://leo-devfullstack.github.io/fiancailles/)<br>
-[**Check my first portfolio!**](https://leo-devfullstack.github.io/firstPortfolio/)
+[**Check My Website!**](https://leo-devfullstack.github.io/meuSite/)<br>
+[**Check Dreamoto Website!**](https://leo-devfullstack.github.io/dreamoto/)<br>
+[**Check Fiançailles Website!**](https://leo-devfullstack.github.io/fiancailles/)
 
 ###
 
