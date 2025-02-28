@@ -1,3 +1,5 @@
+<!--No VS Code apertar CTRL + SHIFT  + V para dar um Previwe no README.md antes de fazer um commit e enviar um push para o GitHub-->
+
 <h1 align="center">Hey There 👋<br>How You Doin ?</h1>
 
 ###
