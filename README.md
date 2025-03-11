@@ -1,9 +1,5 @@
 <!--No VS Code apertar CTRL + SHIFT  + V para dar um Previwe no README.md antes de fazer um commit e enviar um push para o GitHub-->
 
-<h1 align="center">Hey There 👋<br>How You Doin ?</h1>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-dalmazzo-245027150?original_referer=https%3A%2F%2Fgithub.com%2FLeo-DevFullStack%2FLeo-DevFullStack%3Ftab%3Dreadme-ov-file" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -22,7 +18,7 @@
 
 ###
 
-<p align="left">I'm <b>Leo Dalmazzo</b> from Brazil. In my free time, I like watching anime, reading books, playing basketball, riding a bike or motorcycle.<br><br>-💻 I'm studying ADS - <b>"Análise e Desenvolvimento de Sistemas"</b><br>-📚 I'm currently studying <b>C</b> in college, reading a <b>JavaScript</b> book and another about <b>Ruby on Rails</b><br>-📜 I'm working as a <b>Registry Assistant and Notary</b><br>-🎯 My goals are to travel abroad and further enhance my studies.</p>
+<p align="left">I'm <b>Leo Dalmazzo</b> from Brazil.<br><br>-💻 I'm studying ADS - <b>"Análise e Desenvolvimento de Sistemas"</b><br>-📚 I'm currently studying <b>C#</b> in college<br>-📜 I'm working as a <b>Registry Assistant and Notary</b><br>-🎯 My goals are to work in IT and travel the world.</p>
 
 ###
 
