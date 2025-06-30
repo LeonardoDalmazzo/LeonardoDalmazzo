@@ -1,7 +1,7 @@
 <!--No VS Code apertar CTRL + SHIFT  + V para dar um Previwe no README.md antes de fazer um commit e enviar um push para o GitHub-->
 
 <div align="center">
-  <a href="www.linkedin.com/in/leonardodalmazzo" target="_blank">
+  <a href="https://linkedin.com/in/leonardodalmazzo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/leo_dalmazzo99/?igsh=MXJhYTZ5NHcxcXZsYw%3D%3D" target="_blank">
