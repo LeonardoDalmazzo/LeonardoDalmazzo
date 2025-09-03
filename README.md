@@ -14,17 +14,15 @@
 
 ###
 
+[**Check My SPA Portfolio Website!**](https://leonardodalmazzo.github.io/Leonardo-Dalmazzo/)<br>
+
+###
+
 <h3 align="left">📌 About Me</h3>
 
 ###
 
 <p align="left">I'm <b>Leo Dalmazzo</b> from Brazil.<br><br>-💻 I'm studying ADS - <b>"Análise e Desenvolvimento de Sistemas"</b><br>-📚 I'm currently studying <b>C#</b> in college<br>-📜 I'm working as a <b>Registry Assistant and Notary</b><br>-🎯 My goals are to work in IT and travel the world.</p>
-
-###
-
-[**Check My Website!**](https://leonardodalmazzo.github.io/Leonardo-Dalmazzo/)<br>
-[**Check Dreamoto Website!**](https://leonardodalmazzo.github.io/dreamoto/)<br>
-[**Check Fiançailles Website!**](https://leonardodalmazzo.github.io/fiancailles/)
 
 ###
 
