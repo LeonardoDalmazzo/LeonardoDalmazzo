@@ -4,7 +4,7 @@
 | :--- | :--- | :--- | :--- |
 | **der-cgr10-inventario-patrimonial** | Projeto privado | .NET, C#, SQL/ETL, Importadores | Solução de inventário patrimonial com utilitários de importação e processamento de planilhas. |
 | **ARYA** | Projeto privado | .NET 10, ASP.NET Core MVC, EF Core, Identity | Sistema web para operação de oficina com gestão de clientes, motos, ordens de serviço, itens e auditoria. |
-| **ADML-FINANCES** | Projeto privado <br> [Ver Site](https://adml-finances.onrender.com) | ASP.NET Core, Blazor Server, C#, EF Core, SQLite | Aplicação de finanças pessoais com controle de receitas, despesas e histórico para acompanhamento mensal. |
+| **3Finances** | Projeto privado <br> [Ver Site](https://threefinances.onrender.com) | ASP.NET Core, Blazor Server, C#, EF Core, SQLite | Aplicação de finanças pessoais com controle de receitas, despesas e histórico para acompanhamento mensal. |
 | **ADML-PKM** | [Ver Código](https://github.com/LeonardoDalmazzo/ADML-PKM) <br> [Ver Site](https://leonardodalmazzo.github.io/ADML-PKM/) | HTML5, CSS3, JavaScript (Vanilla) | Base de conhecimento pessoal com arquitetura modular, foco em produtividade e organização de conteúdo técnico. |
 | **fiancailles** | [Ver Código](https://github.com/LeonardoDalmazzo/fiancailles) <br> [Ver Site](https://leonardodalmazzo.github.io/fiancailles/) | HTML5, CSS3, W3.CSS | Landing page temática para serviços de celebração de casamento, com foco em apresentação e contato. |
 | **dreamoto** | [Ver Código](https://github.com/LeonardoDalmazzo/dreamoto) <br> [Ver Site](https://leonardodalmazzo.github.io/dreamoto/) | C, Arquivos TXT, CLI | Sistema CRUD em C para planejamento financeiro de compra de moto, com armazenamento em arquivos texto. |
